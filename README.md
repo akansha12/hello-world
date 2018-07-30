@@ -1,3 +1,3 @@
 # hello-world
-hello my first repository
-hi  my name is Akansha
+Hello just trying github pages 
+Hi  my name is Akansha
